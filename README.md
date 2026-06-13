@@ -6,7 +6,7 @@ A web-based steganographic QR code encryption system that combines **AES-256-CBC
 
 ## 🔗 Demo Link
 
-🌐 **Live Application:** https://your-demo-url.com
+🌐 **Live Application:**https://sanita-284.github.io/WebStego-QR/
 
 ---
 
